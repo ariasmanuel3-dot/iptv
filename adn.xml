@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="RadioADN_EPGenerator">
+<channel id="radio_adn">
+<display-name>Radio ADN</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Radio_ADN_logo.png"/>
+</channel>
+<programme start="20251222T030000 " stop="20251222T090000 " channel="radio_adn">
+<title>ADN en la noche</title>
+<desc>Actualidad, deportes y noticias nocturnas de ADN Radio.</desc>
+</programme>
+<programme start="20251222T090000 " stop="20251222T100000 " channel="radio_adn">
+<title>ADN Hoy primera edición</title>
+<desc>Noticias esenciales para comenzar el día.</desc>
+</programme>
+<programme start="20251222T100000 " stop="20251222T120000 " channel="radio_adn">
+<title>ADN Hoy</title>
+<desc>Información, análisis y noticias matinales.</desc>
+</programme>
+<programme start="20251222T120000 " stop="20251222T140000 " channel="radio_adn">
+<title>País ADN</title>
+<desc>Análisis y conversación sobre temas nacionales.</desc>
+</programme>
+<programme start="20251222T140000 " stop="20251222T160000 " channel="radio_adn">
+<title>Ciudadano ADN</title>
+<desc>Noticias, entrevistas y comentarios con humor y actualidad.</desc>
+</programme>
+<programme start="20251222T160000 " stop="20251222T170000 " channel="radio_adn">
+<title>Mediodía en ADN</title>
+<desc>Resumen de noticias y temas del día al mediodía.</desc>
+</programme>
+<programme start="20251222T170000 " stop="20251222T183000 " channel="radio_adn">
+<title>Los Tenores</title>
+<desc>Comentario y análisis deportivo: fútbol nacional e internacional.</desc>
+</programme>
+<programme start="20251222T183000 " stop="20251222T190000 " channel="radio_adn">
+<title>ADN Top</title>
+<desc>Lo más destacado en actualidad y deporte del día.</desc>
+</programme>
+<programme start="20251222T190000 " stop="20251222T200000 " channel="radio_adn">
+<title>ADN te escucha</title>
+<desc>Interacción con los oyentes y resolución de consultas diarias.</desc>
+</programme>
+<programme start="20251222T200000 " stop="20251222T210000 " channel="radio_adn">
+<title>Tu nuevo ADN</title>
+<desc>Temas de interés general y debates actuales.</desc>
+</programme>
+<programme start="20251222T210000 " stop="20251222T230000 " channel="radio_adn">
+<title>La prueba de ADN</title>
+<desc>Análisis profundo de temas sociales y políticos.</desc>
+</programme>
+<programme start="20251222T230000 " stop="20251223T000000 " channel="radio_adn">
+<title>Los Tenores de la tarde</title>
+<desc>Edición vespertina de análisis deportivo.</desc>
+</programme>
+<programme start="20251223T000000 " stop="20251223T010000 " channel="radio_adn">
+<title>Academia de emprendedores</title>
+<desc>Consejos y experiencias para emprendedores.</desc>
+</programme>
+<programme start="20251223T010000 " stop="20251223T030000 " channel="radio_adn">
+<title>ADN te acompaña</title>
+<desc>Programa nocturno de compañía con temas variados.</desc>
+</programme>
+<programme start="20251223T030000 " stop="20251223T090000 " channel="radio_adn">
+<title>ADN en la noche</title>
+<desc>Actualidad, deportes y noticias nocturnas de ADN Radio.</desc>
+</programme>
+<programme start="20251223T090000 " stop="20251223T100000 " channel="radio_adn">
+<title>ADN Hoy primera edición</title>
+<desc>Noticias esenciales para comenzar el día.</desc>
+</programme>
+<programme start="20251223T100000 " stop="20251223T120000 " channel="radio_adn">
+<title>ADN Hoy</title>
+<desc>Información, análisis y noticias matinales.</desc>
+</programme>
+<programme start="20251223T120000 " stop="20251223T140000 " channel="radio_adn">
+<title>País ADN</title>
+<desc>Análisis y conversación sobre temas nacionales.</desc>
+</programme>
+<programme start="20251223T140000 " stop="20251223T160000 " channel="radio_adn">
+<title>Ciudadano ADN</title>
+<desc>Noticias, entrevistas y comentarios con humor y actualidad.</desc>
+</programme>
+<programme start="20251223T160000 " stop="20251223T170000 " channel="radio_adn">
+<title>Mediodía en ADN</title>
+<desc>Resumen de noticias y temas del día al mediodía.</desc>
+</programme>
+<programme start="20251223T170000 " stop="20251223T183000 " channel="radio_adn">
+<title>Los Tenores</title>
+<desc>Comentario y análisis deportivo: fútbol nacional e internacional.</desc>
+</programme>
+<programme start="20251223T183000 " stop="20251223T190000 " channel="radio_adn">
+<title>ADN Top</title>
+<desc>Lo más destacado en actualidad y deporte del día.</desc>
+</programme>
+<programme start="20251223T190000 " stop="20251223T200000 " channel="radio_adn">
+<title>ADN te escucha</title>
+<desc>Interacción con los oyentes y resolución de consultas diarias.</desc>
+</programme>
+<programme start="20251223T200000 " stop="20251223T210000 " channel="radio_adn">
+<title>Tu nuevo ADN</title>
+<desc>Temas de interés general y debates actuales.</desc>
+</programme>
+<programme start="20251223T210000 " stop="20251223T230000 " channel="radio_adn">
+<title>La prueba de ADN</title>
+<desc>Análisis profundo de temas sociales y políticos.</desc>
+</programme>
+<programme start="20251223T230000 " stop="20251224T000000 " channel="radio_adn">
+<title>Los Tenores de la tarde</title>
+<desc>Edición vespertina de análisis deportivo.</desc>
+</programme>
+<programme start="20251224T000000 " stop="20251224T010000 " channel="radio_adn">
+<title>Academia de emprendedores</title>
+<desc>Consejos y experiencias para emprendedores.</desc>
+</programme>
+<programme start="20251224T010000 " stop="20251224T030000 " channel="radio_adn">
+<title>ADN te acompaña</title>
+<desc>Programa nocturno de compañía con temas variados.</desc>
+</programme>
+<programme start="20251224T030000 " stop="20251224T090000 " channel="radio_adn">
+<title>ADN en la noche</title>
+<desc>Actualidad, deportes y noticias nocturnas de ADN Radio.</desc>
+</programme>
+<programme start="20251224T090000 " stop="20251224T100000 " channel="radio_adn">
+<title>ADN Hoy primera edición</title>
+<desc>Noticias esenciales para comenzar el día.</desc>
+</programme>
+<programme start="20251224T100000 " stop="20251224T120000 " channel="radio_adn">
+<title>ADN Hoy</title>
+<desc>Información, análisis y noticias matinales.</desc>
+</programme>
+<programme start="20251224T120000 " stop="20251224T140000 " channel="radio_adn">
+<title>País ADN</title>
+<desc>Análisis y conversación sobre temas nacionales.</desc>
+</programme>
+<programme start="20251224T140000 " stop="20251224T160000 " channel="radio_adn">
+<title>Ciudadano ADN</title>
+<desc>Noticias, entrevistas y comentarios con humor y actualidad.</desc>
+</programme>
+<programme start="20251224T160000 " stop="20251224T170000 " channel="radio_adn">
+<title>Mediodía en ADN</title>
+<desc>Resumen de noticias y temas del día al mediodía.</desc>
+</programme>
+<programme start="20251224T170000 " stop="20251224T183000 " channel="radio_adn">
+<title>Los Tenores</title>
+<desc>Comentario y análisis deportivo: fútbol nacional e internacional.</desc>
+</programme>
+<programme start="20251224T183000 " stop="20251224T190000 " channel="radio_adn">
+<title>ADN Top</title>
+<desc>Lo más destacado en actualidad y deporte del día.</desc>
+</programme>
+<programme start="20251224T190000 " stop="20251224T200000 " channel="radio_adn">
+<title>ADN te escucha</title>
+<desc>Interacción con los oyentes y resolución de consultas diarias.</desc>
+</programme>
+<programme start="20251224T200000 " stop="20251224T210000 " channel="radio_adn">
+<title>Tu nuevo ADN</title>
+<desc>Temas de interés general y debates actuales.</desc>
+</programme>
+<programme start="20251224T210000 " stop="20251224T230000 " channel="radio_adn">
+<title>La prueba de ADN</title>
+<desc>Análisis profundo de temas sociales y políticos.</desc>
+</programme>
+<programme start="20251224T230000 " stop="20251225T000000 " channel="radio_adn">
+<title>Los Tenores de la tarde</title>
+<desc>Edición vespertina de análisis deportivo.</desc>
+</programme>
+<programme start="20251225T000000 " stop="20251225T010000 " channel="radio_adn">
+<title>Academia de emprendedores</title>
+<desc>Consejos y experiencias para emprendedores.</desc>
+</programme>
+<programme start="20251225T010000 " stop="20251225T030000 " channel="radio_adn">
+<title>ADN te acompaña</title>
+<desc>Programa nocturno de compañía con temas variados.</desc>
+</programme>
+<programme start="20251225T030000 " stop="20251225T090000 " channel="radio_adn">
+<title>ADN en la noche</title>
+<desc>Actualidad, deportes y noticias nocturnas de ADN Radio.</desc>
+</programme>
+<programme start="20251225T090000 " stop="20251225T100000 " channel="radio_adn">
+<title>ADN Hoy primera edición</title>
+<desc>Noticias esenciales para comenzar el día.</desc>
+</programme>
+<programme start="20251225T100000 " stop="20251225T120000 " channel="radio_adn">
+<title>ADN Hoy</title>
+<desc>Información, análisis y noticias matinales.</desc>
+</programme>
+<programme start="20251225T120000 " stop="20251225T140000 " channel="radio_adn">
+<title>País ADN</title>
+<desc>Análisis y conversación sobre temas nacionales.</desc>
+</programme>
+<programme start="20251225T140000 " stop="20251225T160000 " channel="radio_adn">
+<title>Ciudadano ADN</title>
+<desc>Noticias, entrevistas y comentarios con humor y actualidad.</desc>
+</programme>
+<programme start="20251225T160000 " stop="20251225T170000 " channel="radio_adn">
+<title>Mediodía en ADN</title>
+<desc>Resumen de noticias y temas del día al mediodía.</desc>
+</programme>
+<programme start="20251225T170000 " stop="20251225T183000 " channel="radio_adn">
+<title>Los Tenores</title>
+<desc>Comentario y análisis deportivo: fútbol nacional e internacional.</desc>
+</programme>
+<programme start="20251225T183000 " stop="20251225T190000 " channel="radio_adn">
+<title>ADN Top</title>
+<desc>Lo más destacado en actualidad y deporte del día.</desc>
+</programme>
+<programme start="20251225T190000 " stop="20251225T200000 " channel="radio_adn">
+<title>ADN te escucha</title>
+<desc>Interacción con los oyentes y resolución de consultas diarias.</desc>
+</programme>
+<programme start="20251225T200000 " stop="20251225T210000 " channel="radio_adn">
+<title>Tu nuevo ADN</title>
+<desc>Temas de interés general y debates actuales.</desc>
+</programme>
+<programme start="20251225T210000 " stop="20251225T230000 " channel="radio_adn">
+<title>La prueba de ADN</title>
+<desc>Análisis profundo de temas sociales y políticos.</desc>
+</programme>
+<programme start="20251225T230000 " stop="20251226T000000 " channel="radio_adn">
+<title>Los Tenores de la tarde</title>
+<desc>Edición vespertina de análisis deportivo.</desc>
+</programme>
+<programme start="20251226T000000 " stop="20251226T010000 " channel="radio_adn">
+<title>Academia de emprendedores</title>
+<desc>Consejos y experiencias para emprendedores.</desc>
+</programme>
+<programme start="20251226T010000 " stop="20251226T030000 " channel="radio_adn">
+<title>ADN te acompaña</title>
+<desc>Programa nocturno de compañía con temas variados.</desc>
+</programme>
+<programme start="20251226T030000 " stop="20251226T090000 " channel="radio_adn">
+<title>ADN en la noche</title>
+<desc>Actualidad, deportes y noticias nocturnas de ADN Radio.</desc>
+</programme>
+<programme start="20251226T090000 " stop="20251226T100000 " channel="radio_adn">
+<title>ADN Hoy primera edición</title>
+<desc>Noticias esenciales para comenzar el día.</desc>
+</programme>
+<programme start="20251226T100000 " stop="20251226T120000 " channel="radio_adn">
+<title>ADN Hoy</title>
+<desc>Información, análisis y noticias matinales.</desc>
+</programme>
+<programme start="20251226T120000 " stop="20251226T140000 " channel="radio_adn">
+<title>País ADN</title>
+<desc>Análisis y conversación sobre temas nacionales.</desc>
+</programme>
+<programme start="20251226T140000 " stop="20251226T160000 " channel="radio_adn">
+<title>Ciudadano ADN</title>
+<desc>Noticias, entrevistas y comentarios con humor y actualidad.</desc>
+</programme>
+<programme start="20251226T160000 " stop="20251226T170000 " channel="radio_adn">
+<title>Mediodía en ADN</title>
+<desc>Resumen de noticias y temas del día al mediodía.</desc>
+</programme>
+<programme start="20251226T170000 " stop="20251226T183000 " channel="radio_adn">
+<title>Los Tenores</title>
+<desc>Comentario y análisis deportivo: fútbol nacional e internacional.</desc>
+</programme>
+<programme start="20251226T183000 " stop="20251226T190000 " channel="radio_adn">
+<title>ADN Top</title>
+<desc>Lo más destacado en actualidad y deporte del día.</desc>
+</programme>
+<programme start="20251226T190000 " stop="20251226T200000 " channel="radio_adn">
+<title>ADN te escucha</title>
+<desc>Interacción con los oyentes y resolución de consultas diarias.</desc>
+</programme>
+<programme start="20251226T200000 " stop="20251226T210000 " channel="radio_adn">
+<title>Tu nuevo ADN</title>
+<desc>Temas de interés general y debates actuales.</desc>
+</programme>
+<programme start="20251226T210000 " stop="20251226T230000 " channel="radio_adn">
+<title>La prueba de ADN</title>
+<desc>Análisis profundo de temas sociales y políticos.</desc>
+</programme>
+<programme start="20251226T230000 " stop="20251227T000000 " channel="radio_adn">
+<title>Los Tenores de la tarde</title>
+<desc>Edición vespertina de análisis deportivo.</desc>
+</programme>
+<programme start="20251227T000000 " stop="20251227T010000 " channel="radio_adn">
+<title>Academia de emprendedores</title>
+<desc>Consejos y experiencias para emprendedores.</desc>
+</programme>
+<programme start="20251227T010000 " stop="20251227T030000 " channel="radio_adn">
+<title>ADN te acompaña</title>
+<desc>Programa nocturno de compañía con temas variados.</desc>
+</programme>
+<programme start="20251227T030000 " stop="20251227T100000 " channel="radio_adn">
+<title>ADN en la noche</title>
+<desc>Actualidad, deportes y noticias nocturnas del fin de semana.</desc>
+</programme>
+<programme start="20251227T100000 " stop="20251227T120000 " channel="radio_adn">
+<title>ADN noticias</title>
+<desc>Reporte de noticias generales cada sábado.</desc>
+</programme>
+<programme start="20251227T120000 " stop="20251227T130000 " channel="radio_adn">
+<title>Plaza ADN</title>
+<desc>Espacio de opinión y actualidad.</desc>
+</programme>
+<programme start="20251227T130000 " stop="20251227T140000 " channel="radio_adn">
+<title>Tus finanzas familiares</title>
+<desc>Consejos y análisis para gestionar tus finanzas.</desc>
+</programme>
+<programme start="20251227T140000 " stop="20251227T150000 " channel="radio_adn">
+<title>La buena vida</title>
+<desc>Estilo de vida, salud y bienestar.</desc>
+</programme>
+<programme start="20251227T150000 " stop="20251227T160000 " channel="radio_adn">
+<title>Comunidad ADN</title>
+<desc>Voces de la comunidad y entrevistas locales.</desc>
+</programme>
+<programme start="20251227T160000 " stop="20251228T010000 " channel="radio_adn">
+<title>Actualidad, deportes, noticias</title>
+<desc>Cobertura general de temas actuales.</desc>
+</programme>
+<programme start="20251228T010000 " stop="20251228T020000 " channel="radio_adn">
+<title>Mundovivo</title>
+<desc>Perspectiva global de actualidad y cultura.</desc>
+</programme>
+<programme start="20251228T020000 " stop="20251228T030000 " channel="radio_adn">
+<title>Actualidad, deportes, noticias</title>
+<desc>Cobertura general de temas actuales.</desc>
+</programme>
+<programme start="20251228T030000 " stop="20251228T100000 " channel="radio_adn">
+<title>Actualidad, deportes, noticias</title>
+<desc>Cobertura general de fin de semana.</desc>
+</programme>
+<programme start="20251228T100000 " stop="20251228T110000 " channel="radio_adn">
+<title>Mundovivo</title>
+<desc>Perspectiva global de actualidad y cultura.</desc>
+</programme>
+<programme start="20251228T110000 " stop="20251228T120000 " channel="radio_adn">
+<title>ADN noticias</title>
+<desc>Noticias del día domingo.</desc>
+</programme>
+<programme start="20251228T120000 " stop="20251228T150000 " channel="radio_adn">
+<title>Actualidad, deportes, noticias</title>
+<desc>Cobertura general de temas actuales.</desc>
+</programme>
+<programme start="20251228T150000 " stop="20251228T160000 " channel="radio_adn">
+<title>ADN mascotas</title>
+<desc>Contenido sobre animales y cuidado de mascotas.</desc>
+</programme>
+<programme start="20251228T160000 " stop="20251229T010000 " channel="radio_adn">
+<title>Actualidad, deportes, noticias</title>
+<desc>Cobertura general de temas actuales.</desc>
+</programme>
+<programme start="20251229T010000 " stop="20251229T020000 " channel="radio_adn">
+<title>Nuestro canto</title>
+<desc>Programa musical y cultural.</desc>
+</programme>
+<programme start="20251229T020000 " stop="20251229T030000 " channel="radio_adn">
+<title>Actualidad, deportes, noticias</title>
+<desc>Cobertura general de temas actuales.</desc>
+</programme>
+<programme start="20251229T030000 " stop="20251229T090000 " channel="radio_adn">
+<title>ADN en la noche</title>
+<desc>Actualidad, deportes y noticias nocturnas de ADN Radio.</desc>
+</programme>
+<programme start="20251229T090000 " stop="20251229T100000 " channel="radio_adn">
+<title>ADN Hoy primera edición</title>
+<desc>Noticias esenciales para comenzar el día.</desc>
+</programme>
+<programme start="20251229T100000 " stop="20251229T120000 " channel="radio_adn">
+<title>ADN Hoy</title>
+<desc>Información, análisis y noticias matinales.</desc>
+</programme>
+<programme start="20251229T120000 " stop="20251229T140000 " channel="radio_adn">
+<title>País ADN</title>
+<desc>Análisis y conversación sobre temas nacionales.</desc>
+</programme>
+<programme start="20251229T140000 " stop="20251229T160000 " channel="radio_adn">
+<title>Ciudadano ADN</title>
+<desc>Noticias, entrevistas y comentarios con humor y actualidad.</desc>
+</programme>
+<programme start="20251229T160000 " stop="20251229T170000 " channel="radio_adn">
+<title>Mediodía en ADN</title>
+<desc>Resumen de noticias y temas del día al mediodía.</desc>
+</programme>
+<programme start="20251229T170000 " stop="20251229T183000 " channel="radio_adn">
+<title>Los Tenores</title>
+<desc>Comentario y análisis deportivo: fútbol nacional e internacional.</desc>
+</programme>
+<programme start="20251229T183000 " stop="20251229T190000 " channel="radio_adn">
+<title>ADN Top</title>
+<desc>Lo más destacado en actualidad y deporte del día.</desc>
+</programme>
+<programme start="20251229T190000 " stop="20251229T200000 " channel="radio_adn">
+<title>ADN te escucha</title>
+<desc>Interacción con los oyentes y resolución de consultas diarias.</desc>
+</programme>
+<programme start="20251229T200000 " stop="20251229T210000 " channel="radio_adn">
+<title>Tu nuevo ADN</title>
+<desc>Temas de interés general y debates actuales.</desc>
+</programme>
+<programme start="20251229T210000 " stop="20251229T230000 " channel="radio_adn">
+<title>La prueba de ADN</title>
+<desc>Análisis profundo de temas sociales y políticos.</desc>
+</programme>
+<programme start="20251229T230000 " stop="20251230T000000 " channel="radio_adn">
+<title>Los Tenores de la tarde</title>
+<desc>Edición vespertina de análisis deportivo.</desc>
+</programme>
+<programme start="20251230T000000 " stop="20251230T010000 " channel="radio_adn">
+<title>Academia de emprendedores</title>
+<desc>Consejos y experiencias para emprendedores.</desc>
+</programme>
+<programme start="20251230T010000 " stop="20251230T030000 " channel="radio_adn">
+<title>ADN te acompaña</title>
+<desc>Programa nocturno de compañía con temas variados.</desc>
+</programme>
+<programme start="20251230T030000 " stop="20251230T090000 " channel="radio_adn">
+<title>ADN en la noche</title>
+<desc>Actualidad, deportes y noticias nocturnas de ADN Radio.</desc>
+</programme>
+<programme start="20251230T090000 " stop="20251230T100000 " channel="radio_adn">
+<title>ADN Hoy primera edición</title>
+<desc>Noticias esenciales para comenzar el día.</desc>
+</programme>
+<programme start="20251230T100000 " stop="20251230T120000 " channel="radio_adn">
+<title>ADN Hoy</title>
+<desc>Información, análisis y noticias matinales.</desc>
+</programme>
+<programme start="20251230T120000 " stop="20251230T140000 " channel="radio_adn">
+<title>País ADN</title>
+<desc>Análisis y conversación sobre temas nacionales.</desc>
+</programme>
+<programme start="20251230T140000 " stop="20251230T160000 " channel="radio_adn">
+<title>Ciudadano ADN</title>
+<desc>Noticias, entrevistas y comentarios con humor y actualidad.</desc>
+</programme>
+<programme start="20251230T160000 " stop="20251230T170000 " channel="radio_adn">
+<title>Mediodía en ADN</title>
+<desc>Resumen de noticias y temas del día al mediodía.</desc>
+</programme>
+<programme start="20251230T170000 " stop="20251230T183000 " channel="radio_adn">
+<title>Los Tenores</title>
+<desc>Comentario y análisis deportivo: fútbol nacional e internacional.</desc>
+</programme>
+<programme start="20251230T183000 " stop="20251230T190000 " channel="radio_adn">
+<title>ADN Top</title>
+<desc>Lo más destacado en actualidad y deporte del día.</desc>
+</programme>
+<programme start="20251230T190000 " stop="20251230T200000 " channel="radio_adn">
+<title>ADN te escucha</title>
+<desc>Interacción con los oyentes y resolución de consultas diarias.</desc>
+</programme>
+<programme start="20251230T200000 " stop="20251230T210000 " channel="radio_adn">
+<title>Tu nuevo ADN</title>
+<desc>Temas de interés general y debates actuales.</desc>
+</programme>
+<programme start="20251230T210000 " stop="20251230T230000 " channel="radio_adn">
+<title>La prueba de ADN</title>
+<desc>Análisis profundo de temas sociales y políticos.</desc>
+</programme>
+<programme start="20251230T230000 " stop="20251231T000000 " channel="radio_adn">
+<title>Los Tenores de la tarde</title>
+<desc>Edición vespertina de análisis deportivo.</desc>
+</programme>
+<programme start="20251231T000000 " stop="20251231T010000 " channel="radio_adn">
+<title>Academia de emprendedores</title>
+<desc>Consejos y experiencias para emprendedores.</desc>
+</programme>
+<programme start="20251231T010000 " stop="20251231T030000 " channel="radio_adn">
+<title>ADN te acompaña</title>
+<desc>Programa nocturno de compañía con temas variados.</desc>
+</programme>
+<programme start="20251231T030000 " stop="20251231T090000 " channel="radio_adn">
+<title>ADN en la noche</title>
+<desc>Actualidad, deportes y noticias nocturnas de ADN Radio.</desc>
+</programme>
+<programme start="20251231T090000 " stop="20251231T100000 " channel="radio_adn">
+<title>ADN Hoy primera edición</title>
+<desc>Noticias esenciales para comenzar el día.</desc>
+</programme>
+<programme start="20251231T100000 " stop="20251231T120000 " channel="radio_adn">
+<title>ADN Hoy</title>
+<desc>Información, análisis y noticias matinales.</desc>
+</programme>
+<programme start="20251231T120000 " stop="20251231T140000 " channel="radio_adn">
+<title>País ADN</title>
+<desc>Análisis y conversación sobre temas nacionales.</desc>
+</programme>
+<programme start="20251231T140000 " stop="20251231T160000 " channel="radio_adn">
+<title>Ciudadano ADN</title>
+<desc>Noticias, entrevistas y comentarios con humor y actualidad.</desc>
+</programme>
+<programme start="20251231T160000 " stop="20251231T170000 " channel="radio_adn">
+<title>Mediodía en ADN</title>
+<desc>Resumen de noticias y temas del día al mediodía.</desc>
+</programme>
+<programme start="20251231T170000 " stop="20251231T183000 " channel="radio_adn">
+<title>Los Tenores</title>
+<desc>Comentario y análisis deportivo: fútbol nacional e internacional.</desc>
+</programme>
+<programme start="20251231T183000 " stop="20251231T190000 " channel="radio_adn">
+<title>ADN Top</title>
+<desc>Lo más destacado en actualidad y deporte del día.</desc>
+</programme>
+<programme start="20251231T190000 " stop="20251231T200000 " channel="radio_adn">
+<title>ADN te escucha</title>
+<desc>Interacción con los oyentes y resolución de consultas diarias.</desc>
+</programme>
+<programme start="20251231T200000 " stop="20251231T210000 " channel="radio_adn">
+<title>Tu nuevo ADN</title>
+<desc>Temas de interés general y debates actuales.</desc>
+</programme>
+<programme start="20251231T210000 " stop="20251231T230000 " channel="radio_adn">
+<title>La prueba de ADN</title>
+<desc>Análisis profundo de temas sociales y políticos.</desc>
+</programme>
+<programme start="20251231T230000 " stop="20260101T000000 " channel="radio_adn">
+<title>Los Tenores de la tarde</title>
+<desc>Edición vespertina de análisis deportivo.</desc>
+</programme>
+<programme start="20260101T000000 " stop="20260101T010000 " channel="radio_adn">
+<title>Academia de emprendedores</title>
+<desc>Consejos y experiencias para emprendedores.</desc>
+</programme>
+<programme start="20260101T010000 " stop="20260101T030000 " channel="radio_adn">
+<title>ADN te acompaña</title>
+<desc>Programa nocturno de compañía con temas variados.</desc>
+</programme>
+<programme start="20260101T030000 " stop="20260101T090000 " channel="radio_adn">
+<title>ADN en la noche</title>
+<desc>Actualidad, deportes y noticias nocturnas de ADN Radio.</desc>
+</programme>
+<programme start="20260101T090000 " stop="20260101T100000 " channel="radio_adn">
+<title>ADN Hoy primera edición</title>
+<desc>Noticias esenciales para comenzar el día.</desc>
+</programme>
+<programme start="20260101T100000 " stop="20260101T120000 " channel="radio_adn">
+<title>ADN Hoy</title>
+<desc>Información, análisis y noticias matinales.</desc>
+</programme>
+<programme start="20260101T120000 " stop="20260101T140000 " channel="radio_adn">
+<title>País ADN</title>
+<desc>Análisis y conversación sobre temas nacionales.</desc>
+</programme>
+<programme start="20260101T140000 " stop="20260101T160000 " channel="radio_adn">
+<title>Ciudadano ADN</title>
+<desc>Noticias, entrevistas y comentarios con humor y actualidad.</desc>
+</programme>
+<programme start="20260101T160000 " stop="20260101T170000 " channel="radio_adn">
+<title>Mediodía en ADN</title>
+<desc>Resumen de noticias y temas del día al mediodía.</desc>
+</programme>
+<programme start="20260101T170000 " stop="20260101T183000 " channel="radio_adn">
+<title>Los Tenores</title>
+<desc>Comentario y análisis deportivo: fútbol nacional e internacional.</desc>
+</programme>
+<programme start="20260101T183000 " stop="20260101T190000 " channel="radio_adn">
+<title>ADN Top</title>
+<desc>Lo más destacado en actualidad y deporte del día.</desc>
+</programme>
+<programme start="20260101T190000 " stop="20260101T200000 " channel="radio_adn">
+<title>ADN te escucha</title>
+<desc>Interacción con los oyentes y resolución de consultas diarias.</desc>
+</programme>
+<programme start="20260101T200000 " stop="20260101T210000 " channel="radio_adn">
+<title>Tu nuevo ADN</title>
+<desc>Temas de interés general y debates actuales.</desc>
+</programme>
+<programme start="20260101T210000 " stop="20260101T230000 " channel="radio_adn">
+<title>La prueba de ADN</title>
+<desc>Análisis profundo de temas sociales y políticos.</desc>
+</programme>
+<programme start="20260101T230000 " stop="20260102T000000 " channel="radio_adn">
+<title>Los Tenores de la tarde</title>
+<desc>Edición vespertina de análisis deportivo.</desc>
+</programme>
+<programme start="20260102T000000 " stop="20260102T010000 " channel="radio_adn">
+<title>Academia de emprendedores</title>
+<desc>Consejos y experiencias para emprendedores.</desc>
+</programme>
+<programme start="20260102T010000 " stop="20260102T030000 " channel="radio_adn">
+<title>ADN te acompaña</title>
+<desc>Programa nocturno de compañía con temas variados.</desc>
+</programme>
+<programme start="20260102T030000 " stop="20260102T090000 " channel="radio_adn">
+<title>ADN en la noche</title>
+<desc>Actualidad, deportes y noticias nocturnas de ADN Radio.</desc>
+</programme>
+<programme start="20260102T090000 " stop="20260102T100000 " channel="radio_adn">
+<title>ADN Hoy primera edición</title>
+<desc>Noticias esenciales para comenzar el día.</desc>
+</programme>
+<programme start="20260102T100000 " stop="20260102T120000 " channel="radio_adn">
+<title>ADN Hoy</title>
+<desc>Información, análisis y noticias matinales.</desc>
+</programme>
+<programme start="20260102T120000 " stop="20260102T140000 " channel="radio_adn">
+<title>País ADN</title>
+<desc>Análisis y conversación sobre temas nacionales.</desc>
+</programme>
+<programme start="20260102T140000 " stop="20260102T160000 " channel="radio_adn">
+<title>Ciudadano ADN</title>
+<desc>Noticias, entrevistas y comentarios con humor y actualidad.</desc>
+</programme>
+<programme start="20260102T160000 " stop="20260102T170000 " channel="radio_adn">
+<title>Mediodía en ADN</title>
+<desc>Resumen de noticias y temas del día al mediodía.</desc>
+</programme>
+<programme start="20260102T170000 " stop="20260102T183000 " channel="radio_adn">
+<title>Los Tenores</title>
+<desc>Comentario y análisis deportivo: fútbol nacional e internacional.</desc>
+</programme>
+<programme start="20260102T183000 " stop="20260102T190000 " channel="radio_adn">
+<title>ADN Top</title>
+<desc>Lo más destacado en actualidad y deporte del día.</desc>
+</programme>
+<programme start="20260102T190000 " stop="20260102T200000 " channel="radio_adn">
+<title>ADN te escucha</title>
+<desc>Interacción con los oyentes y resolución de consultas diarias.</desc>
+</programme>
+<programme start="20260102T200000 " stop="20260102T210000 " channel="radio_adn">
+<title>Tu nuevo ADN</title>
+<desc>Temas de interés general y debates actuales.</desc>
+</programme>
+<programme start="20260102T210000 " stop="20260102T230000 " channel="radio_adn">
+<title>La prueba de ADN</title>
+<desc>Análisis profundo de temas sociales y políticos.</desc>
+</programme>
+<programme start="20260102T230000 " stop="20260103T000000 " channel="radio_adn">
+<title>Los Tenores de la tarde</title>
+<desc>Edición vespertina de análisis deportivo.</desc>
+</programme>
+<programme start="20260103T000000 " stop="20260103T010000 " channel="radio_adn">
+<title>Academia de emprendedores</title>
+<desc>Consejos y experiencias para emprendedores.</desc>
+</programme>
+<programme start="20260103T010000 " stop="20260103T030000 " channel="radio_adn">
+<title>ADN te acompaña</title>
+<desc>Programa nocturno de compañía con temas variados.</desc>
+</programme>
+<programme start="20260103T030000 " stop="20260103T100000 " channel="radio_adn">
+<title>ADN en la noche</title>
+<desc>Actualidad, deportes y noticias nocturnas del fin de semana.</desc>
+</programme>
+<programme start="20260103T100000 " stop="20260103T120000 " channel="radio_adn">
+<title>ADN noticias</title>
+<desc>Reporte de noticias generales cada sábado.</desc>
+</programme>
+<programme start="20260103T120000 " stop="20260103T130000 " channel="radio_adn">
+<title>Plaza ADN</title>
+<desc>Espacio de opinión y actualidad.</desc>
+</programme>
+<programme start="20260103T130000 " stop="20260103T140000 " channel="radio_adn">
+<title>Tus finanzas familiares</title>
+<desc>Consejos y análisis para gestionar tus finanzas.</desc>
+</programme>
+<programme start="20260103T140000 " stop="20260103T150000 " channel="radio_adn">
+<title>La buena vida</title>
+<desc>Estilo de vida, salud y bienestar.</desc>
+</programme>
+<programme start="20260103T150000 " stop="20260103T160000 " channel="radio_adn">
+<title>Comunidad ADN</title>
+<desc>Voces de la comunidad y entrevistas locales.</desc>
+</programme>
+<programme start="20260103T160000 " stop="20260104T010000 " channel="radio_adn">
+<title>Actualidad, deportes, noticias</title>
+<desc>Cobertura general de temas actuales.</desc>
+</programme>
+<programme start="20260104T010000 " stop="20260104T020000 " channel="radio_adn">
+<title>Mundovivo</title>
+<desc>Perspectiva global de actualidad y cultura.</desc>
+</programme>
+<programme start="20260104T020000 " stop="20260104T030000 " channel="radio_adn">
+<title>Actualidad, deportes, noticias</title>
+<desc>Cobertura general de temas actuales.</desc>
+</programme>
+<programme start="20260104T030000 " stop="20260104T100000 " channel="radio_adn">
+<title>Actualidad, deportes, noticias</title>
+<desc>Cobertura general de fin de semana.</desc>
+</programme>
+<programme start="20260104T100000 " stop="20260104T110000 " channel="radio_adn">
+<title>Mundovivo</title>
+<desc>Perspectiva global de actualidad y cultura.</desc>
+</programme>
+<programme start="20260104T110000 " stop="20260104T120000 " channel="radio_adn">
+<title>ADN noticias</title>
+<desc>Noticias del día domingo.</desc>
+</programme>
+<programme start="20260104T120000 " stop="20260104T150000 " channel="radio_adn">
+<title>Actualidad, deportes, noticias</title>
+<desc>Cobertura general de temas actuales.</desc>
+</programme>
+<programme start="20260104T150000 " stop="20260104T160000 " channel="radio_adn">
+<title>ADN mascotas</title>
+<desc>Contenido sobre animales y cuidado de mascotas.</desc>
+</programme>
+<programme start="20260104T160000 " stop="20260105T010000 " channel="radio_adn">
+<title>Actualidad, deportes, noticias</title>
+<desc>Cobertura general de temas actuales.</desc>
+</programme>
+<programme start="20260105T010000 " stop="20260105T020000 " channel="radio_adn">
+<title>Nuestro canto</title>
+<desc>Programa musical y cultural.</desc>
+</programme>
+<programme start="20260105T020000 " stop="20260105T030000 " channel="radio_adn">
+<title>Actualidad, deportes, noticias</title>
+<desc>Cobertura general de temas actuales.</desc>
+</programme>
+</tv>
