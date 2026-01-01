@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="43c65038b4edd6de31166bf1d36502c2",tv/12500H/{PMT:3100}
 http://45.228.242.172:9981/stream/channelid/944817731?profile=pass
 #EXTINF:-1 tvg-id="4cbec88c91bb7c6f8e231a91c4576428" tvg-chno="1",NOW
